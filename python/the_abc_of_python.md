@@ -16,7 +16,8 @@ Python 初碰面 :kissing_heart:
 - 建立 Tuple => 於 () 符號中輸入資料, 並且以逗號區隔
 - 存取 Tuples 元素的方法:
     - 使用 [] 符號並傳入索引值(從0開始計算)來進行存取
-    - 取特定範圍的Tuples(元組)元素, 使用 [:] 符號並傳入索引值 ![](https://i.imgur.com/QtiTV3A.png)
+    - 取特定範圍的Tuples(元組)元素, 使用 [:] 符號並傳入索引值  
+![](https://i.imgur.com/QtiTV3A.png)
 - 尋找 Tuples 元素的方法:
     :::info
     取得 Tuples 元素索引值前, 需先判斷元素是否存在, 否則當元素不存在時, 會發生 ValuesError 的例外:
@@ -34,10 +35,10 @@ Python 初碰面 :kissing_heart:
 
 ### 函式 *arfgs, **kwargs 運算子
 
-- 單參接收多筆輸入值 ***arfgs:**
+- 單參接收多筆輸入值 ***arfgs:**  
 ![](https://i.imgur.com/naFp6C3.png)
 
-- 單參接收多筆資料並打包成字典(Dictionary) ***arfgs:**
+- 單參接收多筆資料並打包成字典(Dictionary) ***arfgs:**  
 ![](https://i.imgur.com/Ilu3HXH.png)
 
 ------
